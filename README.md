@@ -11,7 +11,7 @@ Design temático com elementos visuais inspirados no anime
 Totalmente adaptável (mobile, tablet e desktop)
 
 🛠 Tecnologias
-HTML5, CSS3
-
+HTML5
+CSS3
 JavaScript 
 
